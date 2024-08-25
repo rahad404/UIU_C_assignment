@@ -1,2 +1,2 @@
 ## UIU C Assignment
-This repo contain al assignment I've done on C in my university.  
+This repo contains all assignments I've done on C in my university.  
