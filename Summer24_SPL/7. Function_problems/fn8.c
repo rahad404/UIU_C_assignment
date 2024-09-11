@@ -11,7 +11,6 @@ int main(){
     }
 
     arr_reverse(n,arr);
-
 }
 
 void arr_reverse(int n, int arr[]){
